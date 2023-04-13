@@ -1,0 +1,6 @@
+pygame
+opencv-python
+cvzone
+mediapipe
+pandas
+pyinstaller
